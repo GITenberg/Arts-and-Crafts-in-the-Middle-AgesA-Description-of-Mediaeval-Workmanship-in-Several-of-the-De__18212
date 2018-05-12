@@ -1,0 +1,31 @@
+_repo: Arts-and-Crafts-in-the-Middle-AgesA-Description-of-Mediaeval-Workmanship-in-Several-of-the-De__18212
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Addison, Julia de Wolf Gibbs
+    birthdate: 1866
+    gutenberg_agent_id: '7877'
+    url: http://www.gutenberg.org/2009/agents/7877
+description: ''
+gutenberg_issued: '2006-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arts and crafts movement'
+- !lcc 'NK'
+- !lcsh 'Decorative arts -- History'
+- !lcsh 'Illumination of books and manuscripts'
+- !lcsh 'Decoration and ornament, Medieval'
+title: 'Arts and Crafts in the Middle Ages
+
+  A Description of Mediaeval Workmanship in Several of the Departments of Applied
+  Art, Together with Some Account of Special Artisans in the Early Renaissance'
+url: http://www.gutenberg.org/ebooks/18212
